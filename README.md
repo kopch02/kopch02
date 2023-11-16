@@ -1,5 +1,36 @@
 ### Hi there 👋
 
+My name is Marat and I`m developer // student.
+
+- 📚 At present I`m studying at KemSU in the direction of Fundamental Infomatics and Information Technologies.
+
+- <h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  
+</div>
+
+###
+
+<h3 align="left">🔗  Socials</h3>
+
+###
+
+<div align="left">
+  <a href="https://t.me/kopch02" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://vk.com/kopch02" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" width="52" height="40" alt="vk logo"  />
+  </a>
+</div>
+
+###
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kopch02&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kopch02&theme=dark)
