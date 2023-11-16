@@ -15,7 +15,7 @@ My name is Marat and I`m developer // student.
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="cpp logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/P/postgre-sql-logo-600AD1A66B-seeklogo.com.png" height="40" alt="sql logo"  />
+  <img src="https://seeklogo.com/images/P/postqresql-logo-AD0E066492-seeklogo.com.png" height="40" alt="sql logo"  />
   <img width="12" />
 
 
