@@ -15,6 +15,8 @@ My name is Marat and I`m developer // student.
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="cpp logo"  />
   <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height="40" alt="sql logo"  />
+  <img width="12" />
 
 
   
