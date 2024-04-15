@@ -15,6 +15,10 @@ My name is Marat and I`m developer // student.
   <img width="12" />
   <img src="https://seeklogo.com/images/P/postqresql-logo-AD0E066492-seeklogo.com.png" height="40" alt="sql logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/47/692/png-transparent-responsive-web-design-html-logo-world-wide-web-angle-text-rectangle.png" height="40" alt="html logo"  />
+  <img width="12" />
 
 
   
