@@ -17,7 +17,7 @@ My name is Marat and I`m developer // student.
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle.png" height="40" alt="html logo"  />
+  <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" height="40" alt="html logo"  />
   <img width="12" />
 
 
