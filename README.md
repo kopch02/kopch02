@@ -43,6 +43,11 @@ My name is Marat and I`m developer // student.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kopch02&theme=dark)
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 <!--
 **kopch02/kopch02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
